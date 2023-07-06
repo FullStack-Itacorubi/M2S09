@@ -1,0 +1,5 @@
+insert into pessoa(name, email, status) values ('Nome 1', 'email@teste1', true)
+insert into pessoa(name, email, status) values ('Nome 2', 'email@teste2', true)
+insert into pessoa(name, email, status) values ('Nome 3', 'email@teste3', false)
+insert into pessoa(name, email, status) values ('Nome 4', 'email@teste4', false)
+insert into pessoa(name, email, status) values ('Nome 5', 'email@teste5', true)
