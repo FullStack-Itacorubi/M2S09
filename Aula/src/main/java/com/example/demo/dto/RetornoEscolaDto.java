@@ -1,0 +1,18 @@
+package com.example.demo.dto;
+
+import lombok.AllArgsConstructor;
+import lombok.Getter;
+import lombok.Setter;
+
+@Getter
+@Setter
+@AllArgsConstructor
+public class RetornoEscolaDto {
+
+    private Long id;
+
+    private String nome;
+
+    private Integer qtdProfessores;
+
+}
